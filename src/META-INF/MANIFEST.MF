@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: Spigot 1.13 API.jar Spigot 1.13.jar
+

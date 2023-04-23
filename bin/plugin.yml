@@ -1,0 +1,10 @@
+ name: KEconomy
+ version: 1.0
+ description: Economy for Kyuu plugins.
+ author: Kyuu
+ depend: [KCore, Vault]
+ api-version: 1.14
+ main: com.kyuu.KyuuKun.KEconomy.Main.KEconomy
+ commands:
+   loja:
+     description: Player's Command.
